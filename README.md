@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando em um projeto de máquina learning **Criação de modelo de previsão de faturamento**
 
-- 🌱 Atualmente estou aprendendo **Python, Machine Learning e Business Intelligence**
+- 📚 Cursando Pós Graduação em Business intelligence, big data e analytics
 
 - 💬 Me pergunte sobre **Power BI, Python, Excel e SQL**
 
