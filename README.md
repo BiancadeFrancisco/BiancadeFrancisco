@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou a Bianca de Francisco</h1>
+<h1 align="center">Olá, eu sou a Bianca Zanettin</h1>
 <h3 align="center">Apaixonada por estatística e análise de dados.</h3>
 
 - 🔭 Atualmente estou trabalhando em um projeto de máquina learning **Criação de modelo de previsão de faturamento**
